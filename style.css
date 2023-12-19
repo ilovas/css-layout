@@ -1,7 +1,3 @@
-:root {
-    --mobileBreakpoint: 600px;
-}
-
 :root,
 body {
     box-sizing: border-box;
